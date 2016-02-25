@@ -12,4 +12,5 @@ Install/Run:
 Notes:
 
 The default configuration is to run 8 threads, command line argument specification of thread count will be included in future versions
+
 Upon finding an acceptable password, the string will be written to a file "Password.txt" the program will continue to look for a second password and write this to "Password1.txt"
